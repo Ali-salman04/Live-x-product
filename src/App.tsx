@@ -13,7 +13,10 @@ import Footer from './components/Footer';
 import TalkToExpert from './pages/TalkToExpert';
 import WebDevelopment from './pages/WebDevelopment';
 import MobileDevelopment from './pages/MobileApps';
-
+import CloudSolutions from './pages/CloudSolutions';
+import DataAnalytics from './pages/DataAnalytics';
+import AIAutomation from './pages/AIAutomation';
+import Cybersecurity from './pages/Cybersecurity';
 
 
 // Home Page Component
@@ -54,6 +57,11 @@ function App() {
           <Route path="/talk-to-expert" element={<TalkToExpert />} />
           <Route path="/web-development" element={<WebDevelopment />}  />
           <Route path="/mobile-development" element={<MobileDevelopment />}  />
+          <Route path="/cloud-Solutions" element={<CloudSolutions />}  />
+          <Route path="/ai-automation" element={<AIAutomation />}  />
+          <Route path="/cyber-security" element={<Cybersecurity />}  />
+          <Route path="/data-analytics" element={<DataAnalytics />}  />
+
         </Routes>
         <Footer />
       </div>

@@ -22,7 +22,7 @@ const Services = () => {
       title: 'Cloud Solutions',
       description: 'Scalable cloud infrastructure and migration services to power your digital transformation.',
       color: 'from-indigo-500 to-purple-500',
-      link: '/cloud-solutions',
+      link: '/cloud-Solutions',
     },
     {
       icon: Database,
@@ -36,7 +36,7 @@ const Services = () => {
       title: 'Cybersecurity',
       description: 'Comprehensive security solutions to protect your digital assets and ensure compliance.',
       color: 'from-pink-500 to-rose-500',
-      link: '/cybersecurity',
+      link: '/cyber-security',
     },
     {
       icon: Zap,
