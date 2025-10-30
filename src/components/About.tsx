@@ -103,7 +103,7 @@ const About = () => {
               Building Tomorrow's Technology Today
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Founded in 2010, TechVision has grown from a small startup to a leading technology solutions provider. We combine deep technical expertise with business acumen to deliver solutions that make a real difference.
+              Founded in 2010, Live-X has grown from a small startup to a leading technology solutions provider. We combine deep technical expertise with business acumen to deliver solutions that make a real difference.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
               Our team of 50+ experts works with clients across industries, from startups to Fortune 500 companies, helping them navigate digital transformation and achieve their business objectives.
