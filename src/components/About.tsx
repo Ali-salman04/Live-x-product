@@ -63,22 +63,22 @@ const About = () => {
     {
       icon: Target,
       title: 'Our Mission',
-      description: 'To empower businesses with innovative technology solutions that drive sustainable growth.',
+      description: 'To deliver enterprise-grade IT solutions that enhance security, boost efficiency, and accelerate digital transformation.',
     },
     {
       icon: Users,
       title: 'Our Team',
-      description: 'A diverse group of passionate technologists committed to excellence and innovation.',
+      description: 'Certified IT specialists, cloud architects, and security experts dedicated to your technology success.',
     },
     {
       icon: Award,
       title: 'Our Values',
-      description: 'Integrity, innovation, and customer success guide everything we do.',
+      description: 'Security-first approach, proactive support, and delivering measurable business outcomes.',
     },
     {
       icon: TrendingUp,
       title: 'Our Vision',
-      description: 'To be the most trusted technology partner for businesses worldwide.',
+      description: 'To be the leading IT partner empowering businesses through innovative technology and exceptional service.',
     },
   ];
 
@@ -100,13 +100,13 @@ const About = () => {
           <div>
             <span className="text-cyan-600 font-semibold text-sm uppercase tracking-wider">About Us</span>
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mt-4 mb-6">
-              Building Tomorrow's Technology Today
+              Your Trusted IT Services Partner
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Founded in 2010, Live-X has grown from a small startup to a leading technology solutions provider. We combine deep technical expertise with business acumen to deliver solutions that make a real difference.
+              Founded in 2010, Live-X has evolved into a premier IT services company specializing in cloud solutions, cybersecurity, custom software development, and IT infrastructure management. We deliver cutting-edge technology that transforms businesses and drives innovation.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Our team of 50+ experts works with clients across industries, from startups to Fortune 500 companies, helping them navigate digital transformation and achieve their business objectives.
+              Our team of 50+ certified IT professionals provides 24/7 support, consulting, and implementation services to help organizations modernize their IT infrastructure, enhance security, and leverage emerging technologies like AI and cloud computing.
             </p>
 
             <div className="flex flex-wrap gap-4">

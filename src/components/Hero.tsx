@@ -78,19 +78,19 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className={`mb-6 transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <span className="inline-block px-4 py-2 bg-cyan-500/10 border border-cyan-500/20 rounded-full text-cyan-400 text-sm font-medium hover:bg-cyan-500/20 hover:border-cyan-500/40 transition-all duration-300 hover:scale-105">
-              Welcome to the Future of Technology
+             ✨ Leading IT Solutions Provider
             </span>
           </div>
 
-          <h1 className={`text-5xl md:text-7xl font-bold text-white mb-6 transition-all duration-1000 delay-200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
-            Transform Your Business
+          <h1 className={`text-4xl md:text-7xl font-bold text-white mb-6 transition-all duration-1000 delay-200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
+            Empowering Your Digital
             <span className="block mt-2 bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent animate-gradient bg-300">
-              With Innovation
+            Transformation Journey
             </span>
           </h1>
 
           <p className={`text-xl text-gray-300 mb-12 max-w-2xl mx-auto transition-all duration-1000 delay-400 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
-            We deliver cutting-edge technology solutions that drive growth, enhance efficiency, and create lasting impact for businesses worldwide.
+            We craft innovative software solutions, cloud infrastructure, and cutting-edge technology services that propel your business into the future. From custom development to enterprise systems, we turn your vision into reality.
           </p>
 
           <div className={`flex flex-col sm:flex-row gap-4 justify-center items-center transition-all duration-1000 delay-600 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
